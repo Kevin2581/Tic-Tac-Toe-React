@@ -945,7 +945,7 @@ class Game extends React.Component {
         {this.state.showEasterEgg && (
           <div className="game-over-overlay" onClick={() => this.closeEaster()}>
             <div className="game-over-modal" onClick={(e) => e.stopPropagation()}>
-              <h2 className="game-over-title">Easter egg — Datos del alumno</h2>
+              <h2 className="game-over-title">Easter egg</h2>
               <div style={{ textAlign: 'left', marginTop: 8 }}>
                 <p><strong>Nombre Completo:</strong> Kevin del Jesus Gonzalez Maas</p>
                 <p><strong>Carrera:</strong> Ingenieria en Tecnologia de Software</p>
