@@ -77,3 +77,8 @@ Este proyecto incluye un easter egg escondido con datos del alumno.
 - Animaciones con transiciones CSS
 
 ---
+
+## 👨‍💻 Creador
+
+**Kevin del Jesus Gonzalez Maas**  
+Desarrollador del proyecto y creador del sistema interactivo, diseño UI, lógica de rondas, desempate y easter egg.
