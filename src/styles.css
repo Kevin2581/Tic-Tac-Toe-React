@@ -53,9 +53,6 @@ body {
     color: #f5f5f5;
 }
 
-/* Ocultar el título centrado por defecto (se mostrará sólo en móvil)
-   Esto quita la palabra encima del marcador en escritorio, manteniendo
-   el título de la izquierda intacto. */
 .game-title.mobile-title { display: none; }
 
 .header-center {
